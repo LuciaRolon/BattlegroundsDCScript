@@ -4,6 +4,9 @@ Disconnection Script for Hearthstone Battlegrounds to skip battles.
 Warning: ALL SCRIPTS MUST BE RAN AS ADMINISTRATOR.
 Firewall may need to be enabled for this script to work.
 
+Download: https://github.com/IgnacioRolon/BattlegroundsDCScript/releases 
+Click the latest zip available to download.
+
 To install the script run "Install Script" and write the path of the game. If the path is the default one for 64-bits Systems (C:\Program Files (x86)\Hearthstone\Hearthstone.exe"), simply press enter. Else, write the path accordingly with the .exe included at the end.
 To uninstall the script simply run the "Uninstall Script". In case you installed the script with the wrong path, run this script so you can install it again.
 
